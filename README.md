@@ -110,7 +110,7 @@ Pulled from a path report: `aureport -p -if audit.log | grep 'evil'` →
 
 **Q6: What CVE was exploited to gain root access?**  
 **Answer:** `CVE-2021-3156 (Sudo "Baron Samedit")`  
-A compiled local exploit run against sudo in Oct 2021 maps to the Qualys "Baron Samedit" sudo vulnerability.
+A compiled local exploit run against sudo
 
 **Q7: What type of vulnerability is this?**  
 **Answer:** `Heap-based buffer overflow`
