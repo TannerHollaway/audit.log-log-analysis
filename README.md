@@ -88,6 +88,9 @@ Recovered every keystroke from the attacker's shell. The activity in order:
 
 ---
 
+![questions](images/image.jpg)
+
+
 ## Question Walkthrough
 
 **Q1: What account was compromised?**  
