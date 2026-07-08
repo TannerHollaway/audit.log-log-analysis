@@ -1,10 +1,4 @@
 # Something Wicked — audit.log Triage
-
-**Platform:** Blue Team Labs Online  
-**Category:** Security Operations (Linux Log Analysis / auditd)  
-**Difficulty:** Medium  
-**Date Completed:** 2021-10-04
-
 ---
 
 ## Scenario
